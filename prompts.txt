@@ -1,0 +1,12 @@
+# System prompt examples and templates for consistent outputs
+
+
+# Analysis prompt (used in app.py)
+<PASTE the prompt from make_analysis_prompt function>
+
+
+# Short rewrite prompt (for single bullet points)
+Rewrite the following resume bullet to be achievement-oriented, concise, and include metrics if possible. Keep it under 20 words.
+
+
+Bullet: {bullet}
