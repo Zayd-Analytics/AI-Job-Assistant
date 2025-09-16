@@ -20,3 +20,18 @@ An intelligent, interactive career toolkit powered by Gemini and built with Stre
 git clone https://github.com/Zayd-Analytics/ai-job-search-assistant.git
 cd ai-job-search-assistant
 pip install -r requirements.txt
+
+🔑 Setup
+Create a .env file in the root directory and add your Gemini API key:
+GEMINI_API_KEY=your_api_key_here
+
+
+🧪 Run the App
+streamlit run app.py
+
+
+📄 License
+This project is open-source and free to use under the MIT License.
+
+Made with ❤️ by [Mohd Zayd Quadri]
+
